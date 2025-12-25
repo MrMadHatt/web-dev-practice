@@ -1,0 +1,17 @@
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# IDE/Editor folders
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Sensitive data (for future use)
+.env
+
+# Dependencies (if you ever use npm/node)
+node_modules/
